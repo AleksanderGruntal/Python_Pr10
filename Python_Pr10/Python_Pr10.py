@@ -1,7 +1,6 @@
 #3
 number = [5, 12, 8, 20, 10, 3, 7]
 
-# Печать гистограммы
 for num in number:
     print('*' * num)
 #2.3
